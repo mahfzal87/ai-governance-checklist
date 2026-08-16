@@ -45,7 +45,7 @@ Where "we are ISO 42001 certified" and "we follow the NIST AI RMF" stop being an
 3. **Serious incident notification with statutory clocks.** Article 73: 15 days, 2 days for widespread infringement, 10 days for a death. ISO 10.2 is internal corrective action, which is a different thing.
 4. **Runtime logging with a six month minimum retention.** Articles 19 and 26(6). ISO has no explicit runtime logging control.
 
-## Official crosswalks, and what they actually cover
+## Official crosswalks, and what they cover
 
 | Crosswalk | Author | Covers |
 |---|---|---|

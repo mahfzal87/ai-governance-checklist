@@ -1,6 +1,6 @@
 # Intake triage
 
-Run this before anyone writes a line of the PRD. It takes about thirty minutes and it decides how much governance work the rest of the quarter is quietly carrying.
+Run this before anyone writes a line of the PRD. It takes about thirty minutes and it decides how much governance work the rest of the quarter is carrying.
 
 Output is four written answers: **what it is, what we are, what tier it lands in, and what that triggers.** Write them down. "We discussed it in a meeting" is not an artefact, and it will not be one later when somebody asks.
 

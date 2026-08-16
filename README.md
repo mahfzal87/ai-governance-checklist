@@ -2,7 +2,7 @@
 
 **The intake triage, PRD template and launch gate I use to get an AI feature from idea to release.** Structured on the EU AI Act, the NIST AI RMF and ISO/IEC 42001, and written for the product manager who has to produce the artefacts rather than the lawyer who reviews them.
 
-I built this because the available material sits at two unhelpful extremes. Law firm briefings tell you the regulation exists, at length, for a fee. Vendor maturity models tell you to "establish a governance framework," which is advice in the same way that "be taller" is advice. Neither answers the question a PM actually has on a Tuesday: *this feature, this sprint, what do I have to write, and who signs it?*
+Two kinds of material exist. Law firm briefings tell you the regulation exists, at length, for a fee. Vendor maturity models tell you to "establish a governance framework," which is advice in the same way that "be taller" is advice. Neither answers the question a PM has on a Tuesday: *this feature, this sprint, what do I have to write, and who signs it?*
 
 Every obligation here names an article, an artefact and a signer.
 
@@ -11,7 +11,7 @@ Every obligation here names an article, an artefact and a signer.
 | | |
 |---|---|
 | **[Intake triage](checklists/intake-triage.md)** | Thirty minutes, before the PRD. Is it an AI system, what are we, what tier, what does that trigger |
-| **[PRD template](templates/prd-ai-feature.md)** | The spec, with the governance sections built in rather than bolted on afterwards by someone annoyed about it |
+| **[PRD template](templates/prd-ai-feature.md)** | The spec, with the governance sections built in rather than bolted on afterwards |
 | **[Launch gate](templates/launch-gate.md)** | One page of blocking criteria for the go/no-go |
 
 ## Reference
@@ -19,15 +19,15 @@ Every obligation here names an article, an artefact and a signer.
 | | |
 |---|---|
 | **[EU AI Act obligations](checklists/eu-ai-act.md)** | Provider, deployer, Article 50 and GPAI duties, each with the artefact and the signer |
-| **[NIST AI RMF](checklists/nist-ai-rmf.md)** | The four functions turned into things you can actually hand someone, plus the AI 600-1 generative risk list |
+| **[NIST AI RMF](checklists/nist-ai-rmf.md)** | The four functions turned into things you can hand someone, plus the AI 600-1 generative risk list |
 | **[Timeline](reference/timeline.md)** | What applies when, post-Omnibus |
 | **[Crosswalk](reference/crosswalk.md)** | EU AI Act to NIST to ISO 42001, with the gaps marked, because the gaps are the interesting part |
 
-## Three things this gets right that most sources currently do not
+## Three things most sources still have wrong
 
 **The Digital Omnibus was adopted.** Regulation (EU) 2026/1744 was published on 24 July 2026 and entered into force on **27 July 2026**, amending the AI Act in a lot of places including the high-risk dates. It is not a proposal. A surprising amount of published guidance, including timelines still sitting live on well-known AI Act sites, has not caught up.
 
-**Annex III high-risk obligations now apply from 2 December 2027**, and Annex I from 2 August 2028. The **Article 27 FRIA moved with them**, to December 2027, not August 2026 as plenty of guides still cheerfully state.
+**Annex III high-risk obligations now apply from 2 December 2027**, and Annex I from 2 August 2028. The **Article 27 FRIA moved with them**, to December 2027, not August 2026, which is what plenty of guides still say.
 
 **The Act was not delayed.** Only Chapter III Sections 1 to 3 moved. **Article 50 transparency has been enforceable since 2 August 2026**, at up to 15 million euro or 3 percent of worldwide turnover, whichever is higher, and it applies regardless of risk tier. It is the obligation teams are most likely to be breaching right now while they plan carefully for 2027.
 
@@ -41,11 +41,11 @@ Two habits sit underneath all of it.
 
 **Write the eval before the roadmap.** A quality bar you cannot measure is a wish, and a threshold moved after seeing the results was never a threshold. If you want the runnable version of this, it is in [ai-governance-evals](https://github.com/mahfzal87/ai-governance-evals).
 
-**Every accepted risk needs a person, not a team.** If nobody will put their name against it, it has not been accepted. It has been left somewhere warm and dark to grow.
+**Every accepted risk needs a person, not a team.** If nobody will put their name against it, it is unowned.
 
 ## Accuracy
 
-Every article number, clause reference and date was checked against a primary source on **16 August 2026**: the [consolidated AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727), [Regulation (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng), [NIST AI 100-1](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf), [NIST AI 600-1](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf), and the ISO Online Browsing Platform.
+Sources are linked at the point of each claim and were checked on **16 August 2026**: the [consolidated AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727), [Regulation (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng), [NIST AI 100-1](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf), [NIST AI 600-1](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf), and the ISO Online Browsing Platform.
 
 Where something could not be verified it is marked as such rather than filled in with a confident number. Two examples. The crosswalk is labelled inferred throughout, because no standards body publishes a validated three-way mapping and pretending otherwise would be exactly the behaviour this repo is complaining about. And there is no count of ISO/IEC 42001 certificates anywhere in here, because 42001 does not appear in the ISO Survey yet and every figure in circulation is a vendor counting its own customers.
 

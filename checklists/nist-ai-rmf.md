@@ -1,6 +1,6 @@
 # NIST AI RMF as a working checklist
 
-The AI RMF is voluntary and non-prescriptive, which is both its strength and its problem. It tells you what good looks like and then leaves the actual homework to you. This turns the four functions into artefacts a product team can be held to.
+The AI RMF is voluntary and non-prescriptive. It tells you what good looks like and leaves the homework to you. This turns the four functions into artefacts a product team can be held to.
 
 **Framework:** NIST AI 100-1, AI RMF 1.0, January 2023. [PDF](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) · [DOI](https://doi.org/10.6028/NIST.AI.100-1)
 
@@ -23,7 +23,7 @@ Your evaluation plan should say something about each, even if the answer for som
 6. Privacy-Enhanced
 7. Fair, with Harmful Bias Managed
 
-Four of the seven are compound characteristics, which is why the list reads as seven and not eleven.
+Four of the seven bundle two ideas each. Split them if your evaluation plan needs eleven rows.
 
 ---
 
@@ -40,7 +40,7 @@ Organisation-level, mostly not per-feature. Do it once, review it annually, and 
 | Build a culture where people can raise concerns | Escalation path, and evidence it was used | `GOVERN 4.1` |
 | Govern third-party AI and its IP risk | Vendor assessment, procurement clauses | `GOVERN 6.1` |
 
-If you only do one: **the registry**. Almost every downstream obligation, in every framework, quietly assumes you already know what you have. Most organisations do not.
+If you only do one: **the registry**. Almost every downstream obligation, in every framework, assumes you already know what you have. Most organisations do not.
 
 ---
 
@@ -129,4 +129,4 @@ Those four are exactly where the EU AI Act imposes duties that no voluntary fram
 
 ---
 
-<sub>Subcategory statements quoted verbatim from NIST AI 100-1. NIST uses en dashes inside several statements; those are preserved in the quotations. Verified 16 August 2026.</sub>
+<sub>Subcategory statements are quoted verbatim from NIST AI 100-1, punctuation included. Checked 16 August 2026.</sub>

@@ -72,7 +72,7 @@ What the system cannot do, stated plainly, and where users will be told.
 
 **Conditions, with owners and dates:**
 
-**Reasoning, in two or three sentences.** Write it for someone reading this in eighteen months who was not in the room.
+**Reasoning, in two or three sentences.** Write it for someone who was not in the room.
 
 | Role | Name | Decision | Date |
 |---|---|---|---|

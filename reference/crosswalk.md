@@ -1,6 +1,6 @@
 # Crosswalk: EU AI Act, NIST AI RMF, ISO/IEC 42001
 
-Useful for one purpose: doing a piece of work once and pointing three audiences at it. Not useful for claiming that satisfying one satisfies another.
+Useful for exactly one purpose: doing a piece of work once and pointing three audiences at it. Not useful for claiming that satisfying one satisfies another, however much everyone would like that to be true.
 
 > [!IMPORTANT]
 > **Every mapping below is inferred.** No standards body publishes a validated three-way crosswalk.
@@ -38,7 +38,7 @@ The strongest row is **Article 9**, because NIST publishes its own AI RMF to ISO
 
 ## The four gaps that matter
 
-Where "we are ISO 42001 certified" and "we follow the NIST AI RMF" stop being answers. None of these has a voluntary-framework analogue that discharges the legal duty.
+Where "we are ISO 42001 certified" and "we follow the NIST AI RMF" stop being answers and start being conversation. None of these has a voluntary-framework analogue that discharges the legal duty.
 
 1. **Conformity assessment and CE marking.** Articles 43, 47, 48. Neither NIST nor ISO has a notified body equivalent.
 2. **Registration in the EU database.** Articles 49 and 71. A public register duty has no analogue at all.

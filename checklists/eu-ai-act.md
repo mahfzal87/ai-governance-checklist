@@ -2,7 +2,7 @@
 
 For systems that came out of [intake triage](intake-triage.md) as high risk, or that trigger Article 50 or the GPAI rules.
 
-Every row names the article, the artefact you have to produce, and who signs. If you cannot name a signer, the obligation has no owner.
+Every row names the article, the artefact you have to produce, and who signs it. If you cannot name a signer, the obligation does not have an owner, it has an audience.
 
 **Verified 16 August 2026** against Regulation (EU) 2024/1689 as amended by Regulation (EU) 2026/1744. Dates in [reference/timeline.md](../reference/timeline.md).
 
@@ -152,11 +152,11 @@ Article 4 AI literacy has **no dedicated fine tier**. It falls under the general
 
 ## F. On ISO/IEC 42001
 
-Worth being precise, because this gets oversold.
+Worth being precise, because this one gets oversold, usually by someone selling it.
 
 ISO/IEC 42001:2023 is certifiable, and certification is strong evidence of governance maturity. **It confers no presumption of conformity under the AI Act.** EN ISO/IEC 42001:2026 is CEN-CENELEC's identical adoption of the unchanged ISO text, and it is not listed among the harmonised deliverables CEN-CENELEC is developing under standardisation request M/613. For the Article 17 QMS requirement, CEN-CENELEC wrote a purpose-built standard, **EN 18286:2026**, precisely because 42001's scope does not map cleanly onto it.
 
-So: pursue 42001 because it builds the management system you need anyway, and track EN 18286 for the legal route.
+So: pursue 42001 because it builds the management system you need anyway, and track EN 18286 for the legal route. Just do not let anyone put the certificate on a slide next to the word "compliant".
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Delete this line and every instruction in square brackets before circulating.
 > If a section does not apply, write "N/A" and one line saying why. Do not delete it.
-> Empty sections are how obligations get missed.
+> Empty sections are how obligations go missing, quietly, until they are expensive.
 
 | | |
 |---|---|
@@ -26,7 +26,7 @@
 
 ## 2. Why AI
 
-[The section most AI PRDs skip. Answer it properly, because every obligation downstream in this document is triggered by this choice.]
+[The section most AI PRDs skip, usually because the answer is "the board asked for AI". Answer it properly anyway: every obligation downstream in this document is triggered by this one choice.]
 
 - What makes this a problem that deterministic software cannot solve?
 - What is the non-AI baseline, and how much of the value does it capture? [If a rules engine gets you 80 percent, say so, and justify the remaining 20 percent against the governance cost.]
@@ -172,4 +172,4 @@
 |---|---|---|---|---|
 | | | | | |
 
-[Keep this. In twelve months, when someone asks why the system works this way, this is the only section anyone will read.]
+[Keep this. In twelve months, when someone asks why the system works this way and everyone who built it has moved on, this is the only section anyone will read.]

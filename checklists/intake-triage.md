@@ -1,8 +1,8 @@
 # Intake triage
 
-Run this before anyone writes a line of the PRD. It takes about thirty minutes and decides how much governance work the rest of the quarter carries.
+Run this before anyone writes a line of the PRD. It takes about thirty minutes and it decides how much governance work the rest of the quarter is quietly carrying.
 
-Output is four written answers: **what it is, what we are, what tier it lands in, and what that triggers.** Write them down. "We discussed it" is not an artefact.
+Output is four written answers: **what it is, what we are, what tier it lands in, and what that triggers.** Write them down. "We discussed it in a meeting" is not an artefact, and it will not be one later when somebody asks.
 
 ---
 
@@ -13,7 +13,7 @@ Article 3(1) defines an AI system as a machine-based system designed to operate 
 The Commission's [guidelines on the definition](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) are non-binding but are what a regulator will read. Two practical notes:
 
 - **Inference is the hinge.** A system that applies rules a human wrote is generally out. A system that derives the rule from data is generally in.
-- Do not try to argue your way out here. If the answer is genuinely borderline, the cost of running the rest of this checklist anyway is low, and the cost of being wrong is not.
+- Do not try to argue your way out at this step. If it is genuinely borderline, running the rest of this checklist anyway costs you half an hour. Being wrong costs considerably more, and later, and in public.
 
 **Write down:** the system, in one sentence, in plain language.
 
@@ -21,11 +21,11 @@ The Commission's [guidelines on the definition](https://digital-strategy.ec.euro
 
 ## Step 1. Freeze the intended purpose
 
-One sentence. It is the legal hinge for classification, for Article 13 instructions for use, and for the entire Annex III test.
+One sentence. It is the legal hinge for classification, for Article 13 instructions for use, and for the whole Annex III test. It deserves more care than it usually gets.
 
 > Intended purpose: _______________________________________________
 
-Two rules. Write what it **is for**, not what it **can do**. And treat changing it later as a design change with legal consequences, not a copy edit.
+Two rules. Write what it **is for**, not what it **can do**, because the second one is marketing. And treat changing it later as a design change with legal consequences, not as a copy edit somebody does on a Friday.
 
 ---
 
@@ -49,7 +49,7 @@ Two rules. Write what it **is for**, not what it **can do**. And treat changing 
 
 Work down. Stop at the first match.
 
-### Tier 1: Prohibited (Article 5). If this matches, stop shipping.
+### Tier 1: Prohibited (Article 5). If this matches, stop.
 
 Applicable since 2 February 2025, except the last two, which apply from 2 December 2026.
 
@@ -107,7 +107,7 @@ Penalty tier: **15 million euro or 3 percent**, whichever is higher.
 
 ### Tier 4: Minimal risk
 
-Everything else. Article 4 AI literacy still applies, and voluntary codes of conduct are available under Article 95.
+Everything else. Article 4 AI literacy still applies, and voluntary codes of conduct are available under Article 95. This is the tier everyone assumes they are in.
 
 ---
 

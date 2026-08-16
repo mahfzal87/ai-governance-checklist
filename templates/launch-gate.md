@@ -2,7 +2,7 @@
 
 One page. Filled in before the go/no-go, not written up after it.
 
-The point of a gate is that it can say no. If nothing on this page could ever block a launch, you do not have a gate, you have a status update.
+The point of a gate is that it can say no. If nothing on this page could ever block a launch, this is not a gate. It is a status update wearing a lanyard.
 
 ---
 
@@ -44,7 +44,7 @@ Nothing ships until every applicable row is Yes. A No is a stop, not a risk to b
 
 ## 2. Residual risks accepted
 
-Every accepted risk needs a person, not a team. If nobody will put their name in the last column, it is not accepted, it is ignored.
+Every accepted risk needs a person, not a team. If nobody will put their name in the last column, the risk has not been accepted. It has been left somewhere warm and dark to grow.
 
 | Risk | Impact if it materialises | Why we are accepting it | Accepted by | Review date |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 # NIST AI RMF as a working checklist
 
-The AI RMF is voluntary and non-prescriptive, which is its strength and its problem. It tells you what good looks like and leaves you to decide what to produce. This turns the four functions into artefacts a product team can actually be held to.
+The AI RMF is voluntary and non-prescriptive, which is both its strength and its problem. It tells you what good looks like and then leaves the actual homework to you. This turns the four functions into artefacts a product team can be held to.
 
 **Framework:** NIST AI 100-1, AI RMF 1.0, January 2023. [PDF](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) · [DOI](https://doi.org/10.6028/NIST.AI.100-1)
 
@@ -40,7 +40,7 @@ Organisation-level, mostly not per-feature. Do it once, review it annually, and 
 | Build a culture where people can raise concerns | Escalation path, and evidence it was used | `GOVERN 4.1` |
 | Govern third-party AI and its IP risk | Vendor assessment, procurement clauses | `GOVERN 6.1` |
 
-If you only do one: **the registry**. Almost every downstream obligation, in every framework, assumes you know what you have.
+If you only do one: **the registry**. Almost every downstream obligation, in every framework, quietly assumes you already know what you have. Most organisations do not.
 
 ---
 
@@ -118,7 +118,7 @@ For adversarial ML specifically, the current NIST reference is **AI 100-2 E2025*
 
 ## What the AI RMF does not give you
 
-Be honest about this when someone proposes it as a compliance answer.
+Be honest about this when someone proposes it as the compliance answer.
 
 - **No conformity assessment, no certification, no CE marking.** It is a framework, not a scheme
 - **No registration duty** and no public register

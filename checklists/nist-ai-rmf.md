@@ -15,7 +15,7 @@ The AI RMF is voluntary and non-prescriptive, which is its strength and its prob
 
 Your evaluation plan should say something about each, even if the answer for some is "not applicable, because."
 
-1. Valid and Reliable — foundational, the others rest on it
+1. Valid and Reliable. Foundational, and the others rest on it
 2. Safe
 3. Secure and Resilient
 4. Accountable and Transparent

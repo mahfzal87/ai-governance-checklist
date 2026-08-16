@@ -29,11 +29,11 @@ Every obligation here names an article, an artefact and a signer.
 
 ## Three things this repo gets right that most sources currently do not
 
-**The Digital Omnibus was adopted.** Regulation (EU) 2026/1744 was published on 24 July 2026 and entered into force on **27 July 2026**, amending the AI Act in 43 places. It is not a proposal. A lot of published guidance, including timelines still live on well-known AI Act sites, has not been updated.
+**The Digital Omnibus was adopted.** Regulation (EU) 2026/1744 was published on 24 July 2026 and entered into force on **27 July 2026**, amending the AI Act substantially, including the high-risk application dates. It is not a proposal. A lot of published guidance, including timelines still live on well-known AI Act sites, has not been updated.
 
 **Annex III high-risk obligations now apply from 2 December 2027**, and Annex I from 2 August 2028. The **Article 27 FRIA moved with them**, to December 2027, not August 2026 as many guides still say.
 
-**The Act was not delayed.** Only Chapter III Sections 1 to 3 moved. **Article 50 transparency has been enforceable since 2 August 2026**, at up to 15 million euro or 3 percent of worldwide turnover, and it applies regardless of risk tier. It is the obligation teams are most likely to be breaching right now while they plan for 2027.
+**The Act was not delayed.** Only Chapter III Sections 1 to 3 moved. **Article 50 transparency has been enforceable since 2 August 2026**, at up to 15 million euro or 3 percent of worldwide turnover, whichever is higher, and it applies regardless of risk tier. It is the obligation teams are most likely to be breaching right now while they plan for 2027.
 
 ---
 

@@ -80,4 +80,4 @@ Related standards worth knowing: **ISO/IEC 42005:2025** AI system impact assessm
 
 ---
 
-<sub>Verified 16 August 2026. Per-group Annex A control counts are omitted here because Table A.1 is paywalled and only secondary sources give the split. Not legal advice.</sub>
+<sub>Verified 16 August 2026. The total of 38 controls and the A.2 to A.10 grouping are taken from the standard's own Annex A. The per-group split is not reproduced here because Table A.1 is copyright ISO. Not legal advice.</sub>

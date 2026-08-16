@@ -48,6 +48,7 @@ Every accepted risk needs a person, not a team. If nobody will put their name in
 
 | Risk | Impact if it materialises | Why we are accepting it | Accepted by | Review date |
 |---|---|---|---|---|
+| | | | | |
 
 ## 3. Known limitations we are shipping with
 
@@ -55,6 +56,7 @@ What the system cannot do, stated plainly, and where users will be told.
 
 | Limitation | Communicated where |
 |---|---|
+| | |
 
 ## 4. Rollout
 

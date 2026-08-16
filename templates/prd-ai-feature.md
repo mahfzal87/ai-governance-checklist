@@ -91,6 +91,7 @@
 
 | Metric | Slices compared | Acceptable disparity | Rationale for that threshold |
 |---|---|---|---|
+| | | | |
 
 **Adversarial evaluation**
 
@@ -163,10 +164,12 @@
 
 | Question | Owner | Needed by | Blocking? |
 |---|---|---|---|
+| | | | |
 
 ## Appendix: decision log
 
 | Date | Decision | Alternatives considered | Why | Decided by |
 |---|---|---|---|---|
+| | | | | |
 
 [Keep this. In twelve months, when someone asks why the system works this way, this is the only section anyone will read.]

@@ -3,7 +3,7 @@
 **Verified 16 August 2026** against the consolidated text, [CELEX 02024R1689-20260727](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727).
 
 > [!IMPORTANT]
-> **The Digital Omnibus on AI was adopted.** It is not a proposal. Regulation (EU) 2026/1744 was published in the OJ on 24 July 2026 and entered into force on **27 July 2026**. It amends the AI Act in 43 places, including the high-risk application dates. A large amount of published guidance, including timelines that are still live on well-known AI Act sites, has not been updated. If a source shows Annex III high-risk applying in August 2026, it predates the Omnibus.
+> **The Digital Omnibus on AI was adopted.** It is not a proposal. Regulation (EU) 2026/1744 was published in the OJ on 24 July 2026 and entered into force on **27 July 2026**. It amends the AI Act substantially, including the high-risk application dates. A large amount of published guidance, including timelines that are still live on well-known AI Act sites, has not been updated. If a source shows Annex III high-risk applying in August 2026, it predates the Omnibus.
 
 ## The instrument
 
@@ -30,7 +30,7 @@
 
 ## Three things people get wrong
 
-**1. The Act was not delayed.** Only Chapter III Sections 1 to 3 moved. Prohibitions, GPAI obligations, Article 50 transparency, market surveillance, the EU database and penalties all run on the original schedule. Article 50 has been enforceable since 2 August 2026, backed by fines of up to 15 million euro or 3 percent of worldwide turnover.
+**1. The Act was not delayed.** Only Chapter III Sections 1 to 3 moved. Prohibitions, GPAI obligations, Article 50 transparency, market surveillance, the EU database and penalties all run on the original schedule. Article 50 has been enforceable since 2 August 2026, backed by fines of up to 15 million euro or 3 percent of worldwide turnover, whichever is higher.
 
 **2. The FRIA is deferred to 2 December 2027**, not August 2026. Article 27 sits in Chapter III Section 3. Guides that say otherwise have not been updated.
 
@@ -53,7 +53,7 @@ Plan around these gaps rather than waiting for them.
 | Art. 72(3) post-market monitoring template | Due 2 September 2027 |
 | **Harmonised standards cited in the OJ** | **None.** No AI system can currently claim the Article 40 presumption of conformity |
 
-On that last point: EN 18286:2026, the European Standard for a quality management system for AI Act purposes, was published in 2026, and the Commission is expected to cite it later in the year. Until a reference appears in the Official Journal, the Article 40 presumption is not available to anyone. For Annex III point 1 systems, where Annex VII applies when no harmonised standard has been used, plan for notified body involvement and treat it as a twelve to eighteen month path.
+On that last point: EN 18286:2026, the European Standard for a quality management system for AI Act purposes, was published in 2026, and the Commission is expected to cite it later in the year. Until a reference appears in the Official Journal, the Article 40 presumption is not available to anyone. For Annex III point 1 systems, where Annex VII applies when no harmonised standard has been used, plan for notified body involvement. Designations are still incomplete and no lead times are published, so treat the timeline as unknown and long.
 
 ## Sources
 

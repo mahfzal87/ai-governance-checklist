@@ -38,7 +38,7 @@ Article 16 lists the twelve duties. The substance is in Section 2. Applies from 
 | A12 | **49** | Registration in the EU database before placing on the market. Also `49(2)` where you claim the Art. 6(3) derogation. `49(4)` gives a secure non-public section for Annex III points 1, 6 and 7 | Registration record | Compliance |
 
 > [!WARNING]
-> **No harmonised standard has been cited in the Official Journal.** As of 16 August 2026, nothing gives you the Article 40 presumption of conformity. For Annex III point 1, that pushes you onto the Annex VII notified body route. Notified body capacity is thin. Treat this as a twelve to eighteen month path, and start before you think you need to.
+> **No harmonised standard has been cited in the Official Journal.** As of 16 August 2026, nothing gives you the Article 40 presumption of conformity. For Annex III point 1, that pushes you onto the Annex VII notified body route. Notified body designations under the AI Act are still incomplete, and no lead times are published. Treat the timeline as unknown and long, and start before you think you need to.
 
 ### Run
 
@@ -109,7 +109,7 @@ Independent of risk tier, and the obligation most teams are currently missing. E
 
 Legacy systems get until **2 December 2026** for the `50(2)` machine-readable marking, under Art. 111(4).
 
-Guidance: [Commission guidelines on Article 50](https://ai-act-service-desk.ec.europa.eu/en/ai-act), content approved 20 July 2026, and the voluntary Code of Practice on marking and labelling AI-generated content, 10 June 2026.
+Guidance: [Commission guidelines on the transparency obligations](https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content), content approved 20 July 2026, and the voluntary Code of Practice on marking and labelling AI-generated content, 10 June 2026.
 
 ---
 
@@ -154,7 +154,7 @@ Article 4 AI literacy has **no dedicated fine tier**. It falls under the general
 
 Worth being precise, because this gets oversold.
 
-ISO/IEC 42001:2023 is certifiable, and certification is strong evidence of governance maturity. **It confers no presumption of conformity under the AI Act.** EN ISO/IEC 42001:2026 is CEN-CENELEC's identical adoption of the unchanged ISO text, and it is not among the deliverables under standardisation request M/613. For the Article 17 QMS requirement, CEN-CENELEC wrote a purpose-built standard, **EN 18286:2026**, precisely because 42001's scope does not map cleanly onto it.
+ISO/IEC 42001:2023 is certifiable, and certification is strong evidence of governance maturity. **It confers no presumption of conformity under the AI Act.** EN ISO/IEC 42001:2026 is CEN-CENELEC's identical adoption of the unchanged ISO text, and it is not listed among the harmonised deliverables CEN-CENELEC is developing under standardisation request M/613. For the Article 17 QMS requirement, CEN-CENELEC wrote a purpose-built standard, **EN 18286:2026**, precisely because 42001's scope does not map cleanly onto it.
 
 So: pursue 42001 because it builds the management system you need anyway, and track EN 18286 for the legal route.
 

@@ -23,7 +23,7 @@ Your evaluation plan should say something about each, even if the answer for som
 6. Privacy-Enhanced
 7. Fair, with Harmful Bias Managed
 
-Three of the seven are paired characteristics, which is why there are seven and not ten.
+Four of the seven are compound characteristics, which is why the list reads as seven and not eleven.
 
 ---
 
